@@ -1,14 +1,14 @@
-# Memory Game
+# React Web Game
 
-![Memory Game](./images/memory-game-background.png)
 
-Este projeto foi desenvolvido na conclusão do módulo de JavaScript do curso de Desenvolvimento Web. O Jogo da Memória é uma aplicação interativa que desafia a encontrar pares de cartas correspondentes e rankear os jogadores pelo melhor tempo.
+This project was developed at the conclusion of the JavaScript module of the Web Development course. The Game is an interactive application that challenges you to find matching pairs of cards and rank players for the best time.
 
 ## Tecnologias Utilizadas
 
 - HTML
 - CSS
 - JavaScript
+- React
 
 ## Links
 
